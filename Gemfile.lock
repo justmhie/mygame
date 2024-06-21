@@ -295,6 +295,7 @@ DEPENDENCIES
   debug
   jbuilder
   jsbundling-rails
+  net-pop (~> 0.1.2)
   net-protocol
   pg (~> 1.1)
   puma (>= 5.0)
